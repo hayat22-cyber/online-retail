@@ -107,7 +107,7 @@ Segmented customers into:
 
 ---
 
- 📊 Key Insights
+ Key Insights
 
 - A small percentage of customers contribute majority of revenue
 - Identified high churn-risk customers
@@ -116,7 +116,7 @@ Segmented customers into:
 
 ---
 
-📈 Business Impact
+Business Impact
 
 This project helps businesses:
 
@@ -128,13 +128,13 @@ This project helps businesses:
 
 ---
 
-📷 Dashboard Preview
+Dashboard Preview
 
 (Add Power BI Dashboard screenshots here)
 
 ---
 
-🚀 How to Run This Project
+How to Run This Project
 
 1. Clone the repository
 2. Install required libraries:
@@ -148,7 +148,7 @@ This project helps businesses:
 
 ---
 
-📂 Project Structure
+Project Structure
 ```
 Retail-Customer-Behavior-Analysis/
 │
@@ -168,5 +168,4 @@ Aspiring Data Analyst
 Focused on SQL | Python | Power BI | Business Analytics  
 
 ---
-
-⭐ If you found this project useful, feel free to give it a star!
+If you found this project useful, feel free to give it a star!
